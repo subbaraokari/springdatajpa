@@ -1,0 +1,1 @@
+create table emp(eno int primary key auto_increment,name varchar(30),address varchar(30));

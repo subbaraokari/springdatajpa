@@ -1,0 +1,1 @@
+create table library(id int primary key auto_increment,commaSeperatedBookNames varchar(255),name varchar(30));
